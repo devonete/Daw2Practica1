@@ -1,7 +1,5 @@
-
 <?php
-function echo()
-{
-  echo "hola!";
-}
+
+echo "hola!";
+
 ?>
